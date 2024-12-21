@@ -36,8 +36,8 @@
         // color1.style.backgroundColor = "rgb(132,56,index1)";
     }
      
-    setInterval(changecolor,4000);
-    setInterval(change,4000);
+    setInterval(changecolor,2000);
+    setInterval(change,2000);
 
     // h2{
     //     color: rgb(92, 85, 85);
